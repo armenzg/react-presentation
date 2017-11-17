@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "neutrino": "^7.3.2",
+    "neutrino-preset-react": "^7.3.2"
+  }
+}
