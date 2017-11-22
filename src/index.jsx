@@ -1,4 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-render(<h1>Hello world!</h1>, document.getElementById('root'));
+import ChangesetsViewerContainer from './components/changeset_viewer';
+
+render(<ChangesetsViewerContainer />, document.getElementById('root'));
